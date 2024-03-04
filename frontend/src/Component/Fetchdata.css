@@ -1,0 +1,42 @@
+Fetchdata.css
+
+.custom-card {
+    margin-bottom: 20px;
+    transition: transform 0.3s;
+  }
+  
+  .custom-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .container my-5{
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+    place-items: center;
+  }
+.navbar{
+  position: sticky;
+  top: 0;
+  background-color: rgb(241, 235, 235);
+  z-index: 1000;
+  padding: 50px;
+}
+
+
+  /* .filter-container {
+    position: sticky;
+    top: 0;
+    background-color: rgb(241, 235, 235);
+    z-index: 1000;
+    padding: 4px;
+  }
+
+  .cart-container {
+    position: sticky;
+    top: 0;
+    background-color:rgb(241, 235, 235);
+    z-index: 1000;
+    padding: 4px;
+  } */
+
